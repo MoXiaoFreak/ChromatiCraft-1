@@ -84,7 +84,7 @@ chroma.fencelens=流明防御传导
 
 chroma.bucket=桶
 chroma.invlink=背包链接
-chroma.tool=元素操控器？
+chroma.tool=元素操控器
 chroma.endercrystal=末影水晶
 chroma.storage=能量存储水晶
 chroma.lens=染色水晶镜片
@@ -114,7 +114,7 @@ chroma.chaingun=锁链枪
 chroma.splashgun=溅液枪
 chroma.hoverwand=徘徊魔杖
 chroma.key=天之钥
-chroma.gol=彩能存储池？
+chroma.gol=彩能存储池
 chroma.golcontrol=存储池控制器
 
 chromability.reach=范围提升
@@ -285,9 +285,9 @@ chroma.tieredore.10=Thermitic石
 chroma.tieredore.11=振荡水晶
 chroma.tieredore.12=虚空之石
 
-chromamisc.silktouch=精准采集奖励！
-chromamisc.efficiency=能量效率奖励！
-chromamisc.speed=行动速度奖励！
+chromamisc.silktouch=精准采集！
+chromamisc.efficiency=能量效率
+chromamisc.speed=行动速度
 
 crystal.tank=水晶储罐
 
